@@ -52,7 +52,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Aravind Brahmadevara 
+Aravind Brahmadevara - https://github.com/aravind-deva
 Syed Kumail Akbar
 In case you find a bug, please raise an issue.Kindly fork the repo and create a pull request to merge into the source repo.
 
