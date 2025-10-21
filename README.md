@@ -11,11 +11,10 @@ This research project is to research,design and develop an advanced intraday tra
 
 # How to use them
 
-- Each project will have a directory named after the objective it is going to achieve. 
+- Each project will have a file/directory named after the objective it is going to achieve. 
 
 ## Repo Structure
-
-_Example_: 
+ 
 
 **UniversityData-WQU.ipynb** specifically contains notebook as per **Design Module M4 of the Capstone Course** and explores the datasets provided by the university 
 
@@ -36,7 +35,7 @@ pip install -r requirements.txt
 
 ### Executing program
 
-* How to run the program
+#### How to run the program
 * Run Jupyter Notebook 
 * Open UniversityData-WQU.ipynb
 * Update the variable data_dir = "E:/CapstoneWQU/Cash Stocks Data-20251004T081638Z-1-001/Cash Stocks Data/"
