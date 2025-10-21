@@ -1,5 +1,4 @@
-"# WQUCapstone" 
-# WQUCapstone - 
+# WQUCapstone
 
 Advanced Intraday Trading Strategies for World Quant University Capstone Course
 
