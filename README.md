@@ -2,6 +2,23 @@
 
 Advanced Intraday Trading Strategies for World Quant University Capstone Course
 
+#### Table Of Contents
+
+[Description](#description)
+
+[Getting Started](#getting-started)
+  * [How to use them](#how-to-use-them)
+  * [Repo Structure](#repo-structure)
+  * [Dependencies](#dependencies)
+  * [Installation](#installation)
+  * [Executing program](#executing-program)
+
+[Authors](#authors)
+[Version History](#version-history)
+[License](#license)
+[Acknowledgments](#acknowledgments)
+
+
 ## Description
 
 This research project is to research,design and develop an advanced intraday trading stragies specifically exploring the applicability of on Fibonacci Retracement levels(including golden ratio) for entries and Fibonacci extensions (including golden ratio) for exits 
