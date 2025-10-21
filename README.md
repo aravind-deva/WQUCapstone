@@ -26,20 +26,21 @@ _Example_:
 * python
 * numpy
 * pandas
+* kiteconnect
 
 
-### Installing
-
-* TBD - pip requirements
-* 
+### Installation 
+```
+pip install -r requirements.txt
+```
 
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run Jupyter Notebook 
+* Open UniversityData-WQU.ipynb
+* Update the variable data_dir = "E:/CapstoneWQU/Cash Stocks Data-20251004T081638Z-1-001/Cash Stocks Data/"
+* Run the whole notebook or each cell at once
 
 ## Help
 
@@ -52,8 +53,9 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Aravind Brahmadevara - https://github.com/aravind-deva
-Syed Kumail Akbar
+* Aravind Brahmadevara - https://github.com/aravind-deva
+* Syed Kumail Akbar
+
 In case you find a bug, please raise an issue.Kindly fork the repo and create a pull request to merge into the source repo.
 
 ## Version History
