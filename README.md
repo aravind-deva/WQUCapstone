@@ -24,7 +24,7 @@ Advanced Intraday Trading Strategies for World Quant University Capstone Course
 
 ## Description
 
-This research project is to research,design and develop an advanced intraday trading stragies specifically exploring the applicability of on Fibonacci Retracement levels(including golden ratio) for entries and Fibonacci extensions (including golden ratio) for exits 
+This research project is to research,design and develop advanced intraday trading stragies specifically exploring the applicability of  Fibonacci Retracement levels(including golden ratio) for entries and Fibonacci extensions (including golden ratio) for exits
 
 ## Getting Started
 
@@ -35,9 +35,9 @@ This research project is to research,design and develop an advanced intraday tra
 ### Repo Structure
  
 
-**UniversityData-WQU.ipynb** specifically contains notebook as per **Design Module M4 of the Capstone Course** and explores the datasets provided by the university 
+**UniversityData-WQU.ipynb** contains notebook as per **Design Module M4 of the Capstone Course** and explores the datasets provided by the university 
 
-**KiteConnect-WQU.ipynb** specifically contains notebook related to  **Analyze Module M3 of the Capstone Course** and explores datasets from zerodha Kite Connect API
+**KiteConnect-WQU.ipynb**  contains notebook related to  **Analyze Module M3 of the Capstone Course** and explores datasets from zerodha Kite Connect API
 
 ### Dependencies
 
@@ -74,7 +74,7 @@ Contributors names and contact info
 * Aravind Brahmadevara - https://github.com/aravind-deva
 * Syed Kumail Akbar
 
-In case you find a bug, please raise an issue.Kindly fork the repo and create a pull request to merge into the source repo.
+In case you find a bug, please raise an issue.Kindly fork the repo and create a pull request to merge it into the source repo.
 
 ## Version History
 
@@ -83,7 +83,7 @@ In case you find a bug, please raise an issue.Kindly fork the repo and create a 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+TBD- This project is licensed under the [NAME HERE] License - LICENSE.md file would be updated
 
 ## Acknowledgments
 
