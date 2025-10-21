@@ -1,5 +1,5 @@
 # WQUCapstone
-:+1::tada: Thanks for contributing to Advanced Intraday Trading Strategies for World Quant University Capstone Course! :tada::+1: 
+:+1::tada: Thanks for showing interest to contribute to Advanced Intraday Trading Strategies for World Quant University Capstone Course! :tada::+1: 
 
 #### Table Of Contents
 
@@ -13,11 +13,11 @@
 
 ### Pull Requests
 
-The process described here:
+The process is described here:
 - Create a branch from the main branch
 - Fix problems that are important to users
 - Create a pull request
 - Make sure all the checks are passed in the pull request 
 - Assign it to reviewers
 - Address review comments and fix any suggestions
-- Once it is approved,merge the PR with the main branch
+- Once PR is approved,merge the PR with the main branch if all checks have passed
